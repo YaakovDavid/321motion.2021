@@ -90,6 +90,11 @@ const audio = [
     title: "Investing in Futures: The Rebbe and Children",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=HXUv06gHlqk",
+    thumbnail: "Dear Daughter.jpg",
+    title: "A Letter from G-d to every Jewish Daughter",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=AaMZNCpbDO0",
     thumbnail: "images/Stubborn Kids.jpg",
     title: "Stubborn Kids",
@@ -158,11 +163,6 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=4q42wTpaiS8",
     thumbnail: "images/Halikut.Launch.jpg",
     title: "Halikut Launch 5779",
-  },
-  {
-    iframe: "https://vimeo.com/461612689",
-    thumbnail: "images/DIY Sukkah Mobile.jpg",
-    title: "DIY Sukkah Mobile",
   },
   {
     iframe: "https://www.youtube.com/watch?v=mxzvDX8Ze4k",
