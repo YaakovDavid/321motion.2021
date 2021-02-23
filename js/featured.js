@@ -2,7 +2,7 @@ const featured = [
   {
     iframe: "https://www.youtube.com/watch?v=KVxAbqAbivE",
     thumbnail: "images/321 Motion 2020 Film Reel HD.jpg",
-    title: "Gimmel Tammuz, 25 Years - Event Promo",
+    title: "Film Reel 2020",
   },
   {
     iframe: "https://www.youtube.com/watch?v=hh7vlDCR8-c",
