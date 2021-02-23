@@ -6,7 +6,7 @@ const featured = [
   },
   {
     iframe: "https://vimeo.com/451945828",
-    thumbnail: "images/321 Motion 2020 Film Reel HD.jpg",
+    thumbnail: "images/Hat Measuring.jpg",
     title: "Hat Measuring",
   },
   {
