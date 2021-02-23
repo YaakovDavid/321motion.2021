@@ -1,5 +1,10 @@
 const audio = [ 
   {
+    iframe: "https://www.youtube.com/watch?v=r7u_mPSz0ME",
+    thumbnail: "images/Tzivos Hashem Ckids Brigade.jpg",
+    title: "Tzivos Hashem Ckids Brigade",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=6pVGvStAOCs",
     thumbnail: "images/Ckids Camp Promo 2020.jpg",
     title: "CKids Camp Promo 2020",
