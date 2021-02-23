@@ -5,6 +5,11 @@ const featured = [
     title: "Film Reel 2020",
   },
   {
+    iframe: "https://vimeo.com/451945828",
+    thumbnail: "images/321 Motion 2020 Film Reel HD.jpg",
+    title: "Hat Measuring",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=hh7vlDCR8-c",
     thumbnail: "images/Oholei Torah Renovations.jpg",
     title: "Oholei Torah Renovations",
@@ -38,11 +43,6 @@ const featured = [
     iframe: "https://www.youtube.com/watch?v=cds74X2TSCg",
     thumbnail: "images/Students.Whatever.It.Takes.jpg",
     title: "Students - Whatever It Takes",
-  },
-  {
-    iframe: "https://www.youtube.com/watch?v=r7u_mPSz0ME",
-    thumbnail: "images/Tzivos Hashem Ckids Brigade.jpg",
-    title: "Tzivos Hashem Ckids Brigade",
   },
 ];
 
