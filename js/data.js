@@ -92,7 +92,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=HXUv06gHlqk",
     thumbnail: "Dear Daughter.jpg",
-    title: "A Letter from G-d  to every Jewish Daughter",
+    title: "A Letter from G-d to every Jewish Daughter",
   },
   {
     iframe: "https://www.youtube.com/watch?v=AaMZNCpbDO0",
