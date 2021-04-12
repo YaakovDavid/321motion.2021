@@ -60,6 +60,11 @@ const audio = [
     title: "Tzomo Lecho Nafshi",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=2OcMyxvYuiU",
+    thumbnail: "images/Pesach Medley with Eli Marcus.jpg",
+    title: "Pesach Medley with Eli Marcus",
+  },
+  {
     iframe: "https://vimeo.com/261015763",
     thumbnail: "images/Chidon 5778.jpg",
     title: "Chidon Event 5778",
