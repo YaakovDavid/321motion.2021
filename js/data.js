@@ -215,7 +215,7 @@ const audio = [
     title: 'A Quest for Oiz Episode 4',
   },
   {
-    iframe: "https://vimeo.com/event/934217/embed",
+    iframe: "https://vimeo.com/event/934217",
     thumbnail: "images/A Quest for Oiz Episode 4.jpg",
     title: 'jcm test',
   },
