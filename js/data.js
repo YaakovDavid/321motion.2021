@@ -1,5 +1,15 @@
 const audio = [ 
   {
+    iframe: "https://www.youtube.com/watch?v=-a5sfH2-0Yc",
+    thumbnail: "images/A Chassidisher Derher Fundraising Campaign.jpg",
+    title: "A Chassidisher Derher Fundraising Campaign",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=cds74X2TSCg",
+    thumbnail: "images/Students.Whatever.It.Takes.jpg",
+    title: "Students - Whatever It Takes",
+  },  
+  {
     iframe: "https://www.youtube.com/watch?v=r7u_mPSz0ME",
     thumbnail: "images/Tzivos Hashem Ckids Brigade.jpg",
     title: "Tzivos Hashem Ckids Brigade",
