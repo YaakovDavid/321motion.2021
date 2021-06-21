@@ -150,6 +150,11 @@ const audio = [
     title: "A Bubby's Friendship Circle Experience",
   },
   {
+    iframe: "http://www.youtube.com/watch?v=waidsjmTTVo",
+    thumbnail: "images/The Chai Center Preschool unstoppable.jpg",
+    title: "The Chai Center Preschool #unstoppable",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=7W8hEyAJEF4",
     thumbnail: "images/Chabad of Brooklyn College.jpg",
     title: "Chabad of Brooklyn College",
@@ -188,6 +193,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=4q42wTpaiS8",
     thumbnail: "images/Halikut.Launch.jpg",
     title: "Halikut Launch 5779",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=1K24M4dyvcE",
+    thumbnail: "images/DIY Sukkah Mobile.jpg",
+    title: "DIY Sukkah Mobile",
   },
   {
     iframe: "https://www.youtube.com/watch?v=mxzvDX8Ze4k",
