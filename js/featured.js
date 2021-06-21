@@ -5,9 +5,19 @@ const featured = [
     title: "Film Reel 2020",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=JQEL-WTdgmo",
+    thumbnail: "images/SIE.New.Sefer.inside.look.jpg",
+    title: "SIE New Sefer - Inside Look",
+  },
+  {
     iframe: "https://vimeo.com/451945828",
     thumbnail: "images/Hat Measuring.jpg",
     title: "Hat Measuring",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=tPpztPDEMoY",
+    thumbnail: "images/Gimmel.Tammuz.25.Years.Event.Promo.jpg",
+    title: "Gimmel Tammuz, 25 Years - Event Promo",
   },
   {
     iframe: "https://www.youtube.com/watch?v=hh7vlDCR8-c",
@@ -34,24 +44,4 @@ const featured = [
     thumbnail: "images/Kehos Virtual Sale.jpg",
     title: "Kehos Virtual Sale",
   },
-  {
-    iframe: "https://www.youtube.com/watch?v=-a5sfH2-0Yc",
-    thumbnail: "images/A Chassidisher Derher Fundraising Campaign.jpg",
-    title: "A Chassidisher Derher Fundraising Campaign",
-  },
-  {
-    iframe: "https://www.youtube.com/watch?v=cds74X2TSCg",
-    thumbnail: "images/Students.Whatever.It.Takes.jpg",
-    title: "Students - Whatever It Takes",
-  },
 ];
-
-
-
-
-
-
-
-
-
-
