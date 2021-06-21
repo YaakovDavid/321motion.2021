@@ -75,6 +75,11 @@ const audio = [
     title: "Pesach Medley with Eli Marcus",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=1IXDJyqg6nc",
+    thumbnail: "images/Magen Israel School Tour.jpg",
+    title: "Magen Israel School Tour",
+  },
+  {
     iframe: "https://vimeo.com/261015763",
     thumbnail: "images/Chidon 5778.jpg",
     title: "Chidon Event 5778",
@@ -173,6 +178,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=h48xfNEycGk",
     thumbnail: "images/YJL Feature video.jpg",
     title: "YJL Feature video",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=tMVfNKLrWHk",
+    thumbnail: "images/FC Community Service Award 2021.jpg",
+    title: "FC Community Service Award 2021",
   },
   {
     iframe: "https://www.youtube.com/watch?v=8EXCo94vcQo",
