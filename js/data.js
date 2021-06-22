@@ -140,6 +140,11 @@ const audio = [
     title: "The Springfield Nesenoff Mikvah",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=E0Fyyst2RGk",
+    thumbnail: "images/Shape The Future.jpg",
+    title: "Shape The Future",
+  },
+  {
     iframe: "https://video.wixstatic.com/video/16d1b3_40c40b415ee34d48a9be9f4eb60d3c19/1080p/mp4/file.mp4",
     thumbnail: "images/Chabad On Call.jpg",
     title: "Chabad On Call",
