@@ -85,6 +85,11 @@ const audio = [
     title: "Chidon Event 5778",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=J95CpTBnsfA",
+    thumbnail: "images/Hatzalathon Kids Program.jpg",
+    title: "Hatzalathon Kids Program",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Po1oGEkGzkI",
     thumbnail: "images/Art.of.Friendship.2019.jpg",
     title: "Art of Friendship 2019",
