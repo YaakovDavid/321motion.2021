@@ -30,6 +30,11 @@ const audio = [
     title: "Charidy Campaign - Menachem Education Foundation",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=wJ8HnXo6Z4g",
+    thumbnail: "images/Shir Hageulah Thumbnail.jpg",
+    title: "Shir Hageula - Hachayenu Kel",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Q55f5hwejLI",
     thumbnail: "images/The.Great.Farby.Band.by.Chony.Milecki.Chabad.medley.jpg",
     title: "The Great Farby Band - Chabad Medley",
