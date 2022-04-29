@@ -21,6 +21,11 @@ const featured = [
   },
   {
     iframe: "https://www.youtube.com/watch?v=hh7vlDCR8-c",
+    thumbnail: "images/Light it Up Rentals.jpg",
+    title: "Light it Up Rentals",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=hh7vlDCR8-c",
     thumbnail: "images/Oholei Torah Renovations.jpg",
     title: "Oholei Torah Renovations",
   },
@@ -38,10 +43,5 @@ const featured = [
     iframe: "https://www.youtube.com/watch?v=SjdYYfeoHQY",
     thumbnail: "images/MLP.Production.Group.jpg",
     title: "MLP Production Group",
-  },
-  {
-    iframe: "https://www.youtube.com/watch?v=Co3wqgPS4lc",
-    thumbnail: "images/Kehos Virtual Sale.jpg",
-    title: "Kehos Virtual Sale",
   },
 ];
