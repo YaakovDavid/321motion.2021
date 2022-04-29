@@ -1,5 +1,11 @@
 const audio = [ 
   {
+    iframe: "https://www.youtube.com/watch?v=Co3wqgPS4lc",
+    thumbnail: "images/Kehos Virtual Sale.jpg",
+    title: "Kehos Virtual Sale",
+  },
+ 
+  {
     iframe: "https://www.youtube.com/watch?v=-a5sfH2-0Yc",
     thumbnail: "images/A Chassidisher Derher Fundraising Campaign.jpg",
     title: "A Chassidisher Derher Fundraising Campaign",
