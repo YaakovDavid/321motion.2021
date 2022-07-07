@@ -1,2 +1,2 @@
-$('.live').addClass( "btnlive" );
-//$('.live').addClass( "btnliveenabled" );
+//$('.live').addClass( "btnlive" );
+$('.live').addClass( "btnliveenabled" );
