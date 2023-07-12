@@ -40,6 +40,11 @@ const audio = [
     title: "Mega Great Purim Party 5779",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=bBOvfapTfOs",
+    thumbnail: "images/Join Chabad Air for Takeoff.jpg",
+    title: "Join Chabad Air for Takeoff",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Eq3UUE-Jlss",
     thumbnail: "images/Charidy Campaign - Menachem Education Foundation.jpg",
     title: "Charidy Campaign - Menachem Education Foundation",
@@ -165,6 +170,11 @@ const audio = [
     title: "SEEDS",
   }, 
   {
+    iframe: "https://www.youtube.com/watch?v=JikP-2dOZR8",
+    thumbnail: "images/Gan Academy Girls Open House.jpg",
+    title: "Gan Academy Open House",
+  }, 
+  {
     iframe: "https://www.youtube.com/watch?v=TtCft1TuLw4",
     thumbnail: "images/Bar Mitzvah Tour of Crown Heights.jpg",
     title: "Bar Mitzvah - Tour of Crown Heights",
@@ -178,6 +188,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=E0Fyyst2RGk",
     thumbnail: "images/Shape The Future.jpg",
     title: "Shape The Future",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=j0jOGdtTNBc",
+    thumbnail: "images/Bnos Chomesh Academy.jpg",
+    title: "Bnos Chomesh Academy",
   },
   {
     iframe: "https://video.wixstatic.com/video/16d1b3_40c40b415ee34d48a9be9f4eb60d3c19/1080p/mp4/file.mp4",
@@ -238,6 +253,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=pISlDkA45uc",
     thumbnail: "images/TBM Womens Circle.jpg",
     title: "Whatever it Means - TBM Women's Circle",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=4SS5vIsQSag",
+    thumbnail: "images/Chabad of Flatbush Building Campaign.jpg",
+    title: "Chabad of Flatbush Building Campaign",
   },
   {
     iframe: "https://www.youtube.com/watch?v=8EXCo94vcQo",
@@ -308,6 +328,11 @@ const audio = [
     iframe: "https://vimeo.com/207571716",
     thumbnail: "images/A Quest for Oiz Episode 4.jpg",
     title: 'A Quest for Oiz Episode 4',
+  },
+  {
+    iframe: "https://vimeo.com/829186792",
+    thumbnail: "images/Bnos Chomesh Lunchbreak.jpg",
+    title: 'Bnos Chomesh Lunchbreak',
   },
   {
     iframe: "https://www.youtube.com/watch?v=2khcZZoIPjs",
