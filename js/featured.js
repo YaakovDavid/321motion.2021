@@ -15,9 +15,9 @@ const featured = [
     title: "Hat Measuring",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=tPpztPDEMoY",
-    thumbnail: "images/Gimmel.Tammuz.25.Years.Event.Promo.jpg",
-    title: "Gimmel Tammuz, 25 Years - Event Promo",
+    iframe: "https://www.youtube.com/watch?v=MXmE903z50w",
+    thumbnail: "images/Gourmia Oven Air Fryer GTF7660.jpg",
+    title: "Gourmia Oven Air Fryer GTF7660",
   },
   {
     iframe: "https://www.youtube.com/watch?v=eY-7JSfPKLI",
