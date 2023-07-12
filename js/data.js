@@ -190,6 +190,16 @@ const audio = [
     title: "Gan Academy Open House",
   }, 
   {
+    iframe: "https://www.youtube.com/watch?v=Xpok5oqExD8",
+    thumbnail: "images/Real Influence.jpg",
+    title: "Real Influence",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=ccU8WvIrEwI",
+    thumbnail: "images/YOU are how we SOAR.jpg",
+    title: "YOU are how we SOAR!",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=TtCft1TuLw4",
     thumbnail: "images/Bar Mitzvah Tour of Crown Heights.jpg",
     title: "Bar Mitzvah - Tour of Crown Heights",
@@ -253,6 +263,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=7W8hEyAJEF4",
     thumbnail: "images/Chabad of Brooklyn College.jpg",
     title: "Chabad of Brooklyn College",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=AzCCIz8MG9I",
+    thumbnail: "images/A Volunteer Reflects.jpg",
+    title: "A Volunteer Reflects",
   },
   {
     iframe: "https://www.youtube.com/watch?v=k5pmWiMpCsk",
