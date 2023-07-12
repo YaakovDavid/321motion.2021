@@ -241,12 +241,17 @@ const audio = [
   },
   {
     iframe: "https://www.youtube.com/watch?v=k5pmWiMpCsk",
-    thumbnail: "images/A Cherished Connection.jpg",
+    thumbnail: "images/A.Million.Dollar.Smile.jpg",
     title: "A Million Dollar Smile",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=4SYtzHCQwKw",
+    thumbnail: "images/A Building for Generations.jpg",
+    title: "A Building for Generations",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=-vRUQcb8Zwc",
-    thumbnail: "images/A.Million.Dollar.Smile.jpg",
+    thumbnail: "images/A Cherished Connection.jpg",
     title: "A Cherished Connection",
   },
   {
@@ -313,6 +318,16 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=63ao1WCM-uU",
     thumbnail: "images/Jack Ovadia Mill Basin Mikvah.jpg",
     title: 'Mill Basin Mikvah - Jack Ovadia',
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=OYVhhhbNsJg",
+    thumbnail: "images/Awaiting The Rosh Hashana Call.jpg",
+    title: 'Awaiting The Rosh Hashana Call',
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=KMlFyayCpy8",
+    thumbnail: "images/Chanukah for Children Only.jpg",
+    title: 'Chanukah R-rated for Children Only',
   },
   {
     iframe: "https://www.youtube.com/watch?v=Y2iiqDyKUK0",
