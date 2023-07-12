@@ -1,5 +1,10 @@
 const audio = [ 
   {
+    iframe: "https://www.youtube.com/watch?v=tPpztPDEMoY",
+    thumbnail: "images/Gimmel.Tammuz.25.Years.Event.Promo.jpg",
+    title: "Gimmel Tammuz, 25 Years - Event Promo",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Co3wqgPS4lc",
     thumbnail: "images/Kehos Virtual Sale.jpg",
     title: "Kehos Virtual Sale",
@@ -136,10 +141,15 @@ const audio = [
     title: "Stubborn Kids",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=qGl_QyBf9Wc",
+    thumbnail: "images/Home Away From Home.jpg",
+    title: "Home Away From Home",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=OytznKrJQA0",
     thumbnail: "images/SEEDS.jpg",
     title: "SEEDS",
-  },
+  }, 
   {
     iframe: "https://www.youtube.com/watch?v=TtCft1TuLw4",
     thumbnail: "images/Bar Mitzvah Tour of Crown Heights.jpg",
@@ -159,6 +169,11 @@ const audio = [
     iframe: "https://video.wixstatic.com/video/16d1b3_40c40b415ee34d48a9be9f4eb60d3c19/1080p/mp4/file.mp4",
     thumbnail: "images/Chabad On Call.jpg",
     title: "Chabad On Call",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=dYmq31U2nu0",
+    thumbnail: "images/Great Parade Preshow 2023.jpg",
+    title: "The Great Parade Preshow 2023",
   },
   {
     iframe: "https://www.youtube.com/watch?v=1yEleXfGDKw",
