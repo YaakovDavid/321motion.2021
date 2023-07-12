@@ -45,6 +45,11 @@ const audio = [
     title: "Join Chabad Air for Takeoff",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=L5CKLpzrmeY",
+    thumbnail: "images/Success in Chinuch MEF.jpg",
+    title: "Success in Chinuch",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Eq3UUE-Jlss",
     thumbnail: "images/Charidy Campaign - Menachem Education Foundation.jpg",
     title: "Charidy Campaign - Menachem Education Foundation",
@@ -95,6 +100,11 @@ const audio = [
     title: "A Small Piece of Heaven",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=bN76PG_1bVM",
+    thumbnail: "images/Ckids Torah Rap.jpg",
+    title: "Ckids Torah Rap",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=VS-JTloWShA",
     thumbnail: "images/A.Million.Dreams.Chai.Lifeline.jpg",
     title: "A Million Dreams - Chai Lifeline",
@@ -108,6 +118,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=2OcMyxvYuiU",
     thumbnail: "images/Pesach Medley with Eli Marcus.jpg",
     title: "Pesach Medley with Eli Marcus",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=iQ0gdPJOnuY",
+    thumbnail: "images/Jewish Months of the Year.jpg",
+    title: "Jewish Months of the Year",
   },
   {
     iframe: "https://www.youtube.com/watch?v=1IXDJyqg6nc",
