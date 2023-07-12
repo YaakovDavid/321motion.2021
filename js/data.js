@@ -9,12 +9,16 @@ const audio = [
     thumbnail: "images/Kehos Virtual Sale.jpg",
     title: "Kehos Virtual Sale",
   },
- 
   {
     iframe: "https://www.youtube.com/watch?v=-a5sfH2-0Yc",
     thumbnail: "images/A Chassidisher Derher Fundraising Campaign.jpg",
     title: "A Chassidisher Derher Fundraising Campaign",
   },
+  {
+    iframe: "https://www.youtube.com/watch?v=JYG1McLG1Kk",
+    thumbnail: "images/Bnos Menachem Upward and Onward.jpg",
+    title: "Bnos Menachem - Upward & Onward Campaign",
+  },  
   {
     iframe: "https://www.youtube.com/watch?v=cds74X2TSCg",
     thumbnail: "images/Students.Whatever.It.Takes.jpg",
@@ -64,6 +68,16 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=NGXPpveIsPw",
     thumbnail: "images/Tatenyu - ULY Boys Choir.jpg",
     title: "Tatenyu - ULY Boys Choir",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=tT16mCUrKPE",
+    thumbnail: "images/Tenathon 2 MBD English Medley.jpg",
+    title: "Tenathon 2 - MBD English Medley",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=T63JsVsDJWY",
+    thumbnail: "images/Around The Shabbos Table.jpg",
+    title: "Around The Shabbos Table",
   },
   {
     iframe: "https://www.youtube.com/watch?v=APEO--Wk6OE",
