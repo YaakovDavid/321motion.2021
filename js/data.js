@@ -190,6 +190,11 @@ const audio = [
     title: "Shape The Future",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=WzhHJU9dSww",
+    thumbnail: "images/Beyond Coincidence.jpg",
+    title: "Beyond Coincidence",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=j0jOGdtTNBc",
     thumbnail: "images/Bnos Chomesh Academy.jpg",
     title: "Bnos Chomesh Academy",
@@ -208,6 +213,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=1yEleXfGDKw",
     thumbnail: "images/Ahavas.Yisroel.Rabbi.Avtzon.AH.jpg",
     title: 'Ahavas Yisroel - Rabbi Avtzon A"H',
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=Zo3bzzzXipI",
+    thumbnail: "images/Rambam in the Shadows of Death.jpg",
+    title: 'Rambam in the Shadows of Death',
   },
   {
     iframe: "https://www.youtube.com/watch?v=jA0kTuAD0QQ",
@@ -258,6 +268,11 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=4SS5vIsQSag",
     thumbnail: "images/Chabad of Flatbush Building Campaign.jpg",
     title: "Chabad of Flatbush Building Campaign",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=xuYCW30ONIU",
+    thumbnail: "images/Benny Influences Rambam.jpg",
+    title: "Benny Influences Rambam",
   },
   {
     iframe: "https://www.youtube.com/watch?v=8EXCo94vcQo",
