@@ -140,19 +140,24 @@ const audio = [
     title: "Hatzalathon Kids Program",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=Po1oGEkGzkI",
-    thumbnail: "images/Art.of.Friendship.2019.jpg",
-    title: "Art of Friendship 2019",
+    iframe: "https://www.youtube.com/watch?v=urYgn0v2Pc8",
+    thumbnail: "images/Art of Friendship 2023.jpg",
+    title: "Art of Friendship 2023",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=ConmmmehqpE",
-    thumbnail: "images/Art.of.Friendship.PROMO.2019.jpg",
-    title: "Art of Friendship Promo 2019",
+    iframe: "https://www.youtube.com/watch?v=arbnrp6Yau4",
+    thumbnail: "images/Art of Friendship 2022.jpg",
+    title: "Art of Friendship 2022",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=tf6GCU_kNbc",
-    thumbnail: "images/Art.of.Friendship.PROMO.2016.jpg",
-    title: "Art of Friendship Promo 2016",
+    iframe: "https://www.youtube.com/watch?v=jP4DTZV6Adw",
+    thumbnail: "images/Art of Friendship Promo 2022.jpg",
+    title: "Art of Friendship Promo 2022",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=CPOCU-0Lg1Q",
+    thumbnail: "images/Art of Friendship 2021.jpg",
+    title: "Art of Friendship 2021",
   },
   {
     iframe: "https://vimeo.com/487026883",
@@ -242,7 +247,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=Zo3bzzzXipI",
     thumbnail: "images/Rambam in the Shadows of Death.jpg",
-    title: 'Rambam in the Shadows of Death',
+    title: '="Rambam in the Shadows of Death",
   },
   {
     iframe: "https://www.youtube.com/watch?v=jA0kTuAD0QQ",
@@ -347,57 +352,72 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=63ao1WCM-uU",
     thumbnail: "images/Jack Ovadia Mill Basin Mikvah.jpg",
-    title: 'Mill Basin Mikvah - Jack Ovadia',
+    title: "Mill Basin Mikvah - Jack Ovadia",
   },
   {
     iframe: "https://www.youtube.com/watch?v=OYVhhhbNsJg",
     thumbnail: "images/Awaiting The Rosh Hashana Call.jpg",
-    title: 'Awaiting The Rosh Hashana Call',
+    title: "Awaiting The Rosh Hashana Call",
   },
   {
     iframe: "https://www.youtube.com/watch?v=KMlFyayCpy8",
     thumbnail: "images/Chanukah for Children Only.jpg",
-    title: 'Chanukah R-rated for Children Only',
+    title: "Chanukah R-rated for Children Only",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=Po1oGEkGzkI",
+    thumbnail: "images/Art.of.Friendship.2019.jpg",
+    title: "Art of Friendship 2019",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=ConmmmehqpE",
+    thumbnail: "images/Art.of.Friendship.PROMO.2019.jpg",
+    title: "Art of Friendship Promo 2019",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=tf6GCU_kNbc",
+    thumbnail: "images/Art.of.Friendship.PROMO.2016.jpg",
+    title: "Art of Friendship Promo 2016",
   },
   {
     iframe: "https://www.youtube.com/watch?v=Y2iiqDyKUK0",
     thumbnail: "images/ImJustLikeYou.jpg",
-    title: '#ImJustLikeYou',
+    title: "#ImJustLikeYou",
   },
   {
     iframe: "https://www.youtube.com/watch?v=1O7rwCnebVo",
     thumbnail: "images/The Story of Yud Kislev.jpg",
-    title: 'The Story of Yud Kislev',
+    title: "The Story of Yud Kislev",
   },
   {
     iframe: "https://vimeo.com/192392877",
     thumbnail: "images/A Quest for Oiz Episode 1.jpg",
-    title: 'A Quest for Oiz Episode 1',
+    title: "A Quest for Oiz Episode 1",
   },
   {
     iframe: "https://vimeo.com/197219780",
     thumbnail: "images/A Quest for Oiz Episode 2.jpg",
-    title: 'A Quest for Oiz Episode 2',
+    title: "A Quest for Oiz Episode 2",
   },
   {
     iframe: "https://vimeo.com/202753642",
     thumbnail: "images/A Quest for Oiz Episode 3.jpg",
-    title: 'A Quest for Oiz Episode 3',
+    title: "A Quest for Oiz Episode 3",
   },
   {
     iframe: "https://vimeo.com/207571716",
     thumbnail: "images/A Quest for Oiz Episode 4.jpg",
-    title: 'A Quest for Oiz Episode 4',
+    title: "A Quest for Oiz Episode 4",
   },
   {
     iframe: "https://vimeo.com/829186792",
     thumbnail: "images/Bnos Chomesh Lunchbreak.jpg",
-    title: 'Bnos Chomesh Lunchbreak',
+    title: "Bnos Chomesh Lunchbreak",
   },
   {
     iframe: "https://www.youtube.com/watch?v=2khcZZoIPjs",
     thumbnail: "images/Lag Baomer Countdown.jpg",
-    title: 'Lag Baomer Countdown',
+    title: "Lag Baomer Countdown",
   },
 ];
 
