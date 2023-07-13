@@ -247,7 +247,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=Zo3bzzzXipI",
     thumbnail: "images/Rambam in the Shadows of Death.jpg",
-    title: '="Rambam in the Shadows of Death",
+    title: "Rambam in the Shadows of Death",
   },
   {
     iframe: "https://www.youtube.com/watch?v=jA0kTuAD0QQ",
@@ -352,7 +352,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=63ao1WCM-uU",
     thumbnail: "images/Jack Ovadia Mill Basin Mikvah.jpg",
-    title: "Mill Basin Mikvah - Jack Ovadia",
+    title: 'Mill Basin Mikvah - Jack Ovadia',
   },
   {
     iframe: "https://www.youtube.com/watch?v=OYVhhhbNsJg",
@@ -362,7 +362,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=KMlFyayCpy8",
     thumbnail: "images/Chanukah for Children Only.jpg",
-    title: "Chanukah R-rated for Children Only",
+    title: 'Chanukah R-rated for Children Only',
   },
   {
     iframe: "https://www.youtube.com/watch?v=Po1oGEkGzkI",
@@ -382,7 +382,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=Y2iiqDyKUK0",
     thumbnail: "images/ImJustLikeYou.jpg",
-    title: "#ImJustLikeYou",
+    title: '#ImJustLikeYou',
   },
   {
     iframe: "https://www.youtube.com/watch?v=1O7rwCnebVo",
