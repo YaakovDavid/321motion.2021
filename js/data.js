@@ -491,7 +491,7 @@ const audio = [
   },
   {
     iframe: "https://vimeo.com/780229169",
-    thumbnail: "Women Grand Hakhel Farbrengen.jpg",
+    thumbnail: "Womens Grand Hakhel Farbrengen.jpg",
     title: "Women's Grand Hakhel Farbrengen",
   },
   {
