@@ -130,11 +130,6 @@ const audio = [
     title: "Magen Israel School Tour",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=J95CpTBnsfA",
-    thumbnail: "images/Hatzalathon Kids Program.jpg",
-    title: "Hatzalathon Kids Program",
-  },
-  {
     iframe: "https://www.youtube.com/watch?v=urYgn0v2Pc8",
     thumbnail: "images/Art of Friendship 2023.jpg",
     title: "Art of Friendship 2023",
@@ -405,6 +400,11 @@ const audio = [
     title: '#ImJustLikeYou',
   },
   {
+    iframe: "https://www.youtube.com/watch?v=2khcZZoIPjs",
+    thumbnail: "images/Lag Baomer Countdown.jpg",
+    title: "Lag Baomer Countdown",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=1O7rwCnebVo",
     thumbnail: "images/The Story of Yud Kislev.jpg",
     title: "The Story of Yud Kislev",
@@ -435,9 +435,34 @@ const audio = [
     title: "Bnos Chomesh Lunchbreak",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=2khcZZoIPjs",
-    thumbnail: "images/Lag Baomer Countdown.jpg",
-    title: "Lag Baomer Countdown",
+    iframe: "https://www.youtube.com/watch?v=J95CpTBnsfA",
+    thumbnail: "images/Hatzalathon Kids Program.jpg",
+    title: "Hatzalathon Kids Program",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=2uFfvbjlf48",
+    thumbnail: "images/Evening of Tribute for Rabbi Yudi Dukes.jpg",
+    title: "Evening of Tribute for Rabbi Yudi Dukes",
+  },
+  {
+    iframe: "https://vimeo.com/664572717",
+    thumbnail: "images/Call of the Hour 5782.jpg",
+    title: "Call of the Hour 5782",
+  },
+  {
+    iframe: "https://vimeo.com/770493433",
+    thumbnail: "images/Raise the Crown ULY Building.jpg",
+    title: "Raise the Crown",
+  },
+  {
+    iframe: "https://vimeo.com/780229169",
+    thumbnail: "images/Womens Grand Hakhel Farbrengen.jpg",
+    title: "Women's Grand Hakhel Farbrengen",
+  },
+  {
+    iframe: "https://vimeo.com/802587163",
+    thumbnail: "images/Bring Home the Joy Happynest.jpg",
+    title: "Bring Home the Joy - Women's Event",
   },
   {
     iframe: "https://vimeo.com/261015763",
@@ -465,16 +490,6 @@ const audio = [
     title: "Chidon Event 5783 Boys",
   },
   {
-    iframe: "https://www.youtube.com/watch?v=2uFfvbjlf48",
-    thumbnail: "images/Evening of Tribute for Rabbi Yudi Dukes.jpg",
-    title: "Evening of Tribute for Rabbi Yudi Dukes",
-  },
-  {
-    iframe: "https://vimeo.com/664572717",
-    thumbnail: "images/Call of the Hour 5782.jpg",
-    title: "Call of the Hour 5782",
-  },
-  {
     iframe: "https://www.youtube.com/watch?v=oPgFr65kiNg",
     thumbnail: "images/JewQ Championship 5782.jpg",
     title: "JewQ Championship 5782",
@@ -484,21 +499,4 @@ const audio = [
     thumbnail: "images/JewQ Championship 5783.jpg",
     title: "JewQ Championship 5783",
   },
-  {
-    iframe: "https://vimeo.com/770493433",
-    thumbnail: "images/Raise the Crown ULY Building.jpg",
-    title: "Raise the Crown",
-  },
- <! --  {
-    iframe: "https://vimeo.com/780229169",
-    thumbnail: "Womens Grand Hakhel Farbrengen.jpg",
-    title: "Women's Grand Hakhel Farbrengen",
-  }, -->
-  {
-    iframe: "https://vimeo.com/802587163",
-    thumbnail: "images/Bring Home the Joy Happynest.jpg",
-    title: "Bring Home the Joy - Women's Event",
-  },
 ];
-
-
