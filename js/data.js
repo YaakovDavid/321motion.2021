@@ -130,11 +130,6 @@ const audio = [
     title: "Magen Israel School Tour",
   },
   {
-    iframe: "https://vimeo.com/261015763",
-    thumbnail: "images/Chidon 5778.jpg",
-    title: "Chidon Event 5778",
-  },
-  {
     iframe: "https://www.youtube.com/watch?v=J95CpTBnsfA",
     thumbnail: "images/Hatzalathon Kids Program.jpg",
     title: "Hatzalathon Kids Program",
@@ -443,6 +438,66 @@ const audio = [
     iframe: "https://www.youtube.com/watch?v=2khcZZoIPjs",
     thumbnail: "images/Lag Baomer Countdown.jpg",
     title: "Lag Baomer Countdown",
+  },
+  {
+    iframe: "https://vimeo.com/261015763",
+    thumbnail: "images/Chidon 5778.jpg",
+    title: "Chidon Event 5778",
+  },
+  {
+    iframe: "https://vimeo.com/555772588",
+    thumbnail: "images/Chidon 5781.jpg",
+    title: "Chidon Event 5781",
+  },
+  {
+    iframe: "https://vimeo.com/695784758",
+    thumbnail: "images/Chidon 5782.jpg",
+    title: "Chidon Event 5782",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=Ar0WhsAARV4",
+    thumbnail: "images/Chidon 5783 Girls.jpg",
+    title: "Chidon Event 5783 Girls",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=Qq-XoZVh63I",
+    thumbnail: "images/Chidon 5783 Boys.jpg",
+    title: "Chidon Event 5783 Boys",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=2uFfvbjlf48",
+    thumbnail: "images/Evening of Tribute for Rabbi Yudi Dukes.jpg",
+    title: "Evening of Tribute for Rabbi Yudi Dukes",
+  },
+  {
+    iframe: "https://vimeo.com/664572717",
+    thumbnail: "images/Call of the Hour 5782.jpg",
+    title: "Call of the Hour 5782",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=oPgFr65kiNg",
+    thumbnail: "images/JewQ Championship 5782.jpg",
+    title: "JewQ Championship 5782",
+  },
+  {
+    iframe: "https://www.youtube.com/watch?v=PxdX_Xo8HMk",
+    thumbnail: "images/JewQ Championship 5783.jpg",
+    title: "JewQ Championship 5783",
+  },
+  {
+    iframe: "https://vimeo.com/770493433",
+    thumbnail: "images/Raise the Crown ULY Building.jpg",
+    title: "Raise the Crown",
+  },
+  {
+    iframe: "https://vimeo.com/780229169",
+    thumbnail: "Women Grand Hakhel Farbrengen.jpg",
+    title: "Women's Grand Hakhel Farbrengen",
+  },
+  {
+    iframe: "https://vimeo.com/802587163",
+    thumbnail: "images/Bring Home the Joy Happynest.jpg",
+    title: "Bring Home the Joy - Women's Event",
   },
 ];
 
