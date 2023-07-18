@@ -10,6 +10,11 @@ const audio = [
     title: "Kehos Virtual Sale",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=Bs0yfXIZhr0",
+    thumbnail: "images/laundry NYC 2023.jpg",
+    title: "laundryNYC 2023 Promo",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=-a5sfH2-0Yc",
     thumbnail: "images/A Chassidisher Derher Fundraising Campaign.jpg",
     title: "A Chassidisher Derher Fundraising Campaign",
