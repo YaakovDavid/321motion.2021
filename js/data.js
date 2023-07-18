@@ -130,6 +130,11 @@ const audio = [
     title: "Jewish Months of the Year",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=qLyGgaAe-Mo",
+    thumbnail: "images/Zuchor.jpg",
+    title: "Zuchor",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=1IXDJyqg6nc",
     thumbnail: "images/Magen Israel School Tour.jpg",
     title: "Magen Israel School Tour",
@@ -258,6 +263,11 @@ const audio = [
     iframe: "http://www.youtube.com/watch?v=waidsjmTTVo",
     thumbnail: "images/The Chai Center Preschool unstoppable.jpg",
     title: "The Chai Center Preschool #unstoppable",
+  },
+  {
+    iframe: "https://https://www.youtube.com/watch?v=HSZDj8zoWP0",
+    thumbnail: "images/Camp Chayolei Promo 5782.jpg",
+    title: "Camp Chayolei Promo 5782",
   },
   {
     iframe: "https://www.youtube.com/watch?v=7W8hEyAJEF4",
