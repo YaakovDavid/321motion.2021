@@ -187,7 +187,7 @@ const audio = [
   {
     iframe: "https://www.youtube.com/watch?v=au9_QhYmRsw",
     thumbnail: "images/The Difference You Make.jpg",
-    title: "Home Away From Home",
+    title: "The Difference You Make",
   },
   {
     iframe: "https://www.youtube.com/watch?v=OytznKrJQA0",
