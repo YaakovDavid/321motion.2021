@@ -500,6 +500,11 @@ const audio = [
     title: "Women's Grand Hakhel Farbrengen",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=o7c_5jyHy_w",
+    thumbnail: "images/1 Hour Farbrengen.jpg",
+    title: "1 Hour Farbrengen",
+  },
+  {
     iframe: "https://vimeo.com/802587163",
     thumbnail: "images/Bring Home the Joy Happynest.jpg",
     title: "Bring Home the Joy - Women's Event",
