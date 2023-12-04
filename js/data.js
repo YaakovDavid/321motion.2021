@@ -539,4 +539,9 @@ const audio = [
     thumbnail: "images/JewQ Championship 5783.jpg",
     title: "JewQ Championship 5783",
   },
+  {
+    iframe: "https://www.youtube.com/watch?v=1XQjWWR7jnE",
+    thumbnail: "images/Simcha In These Turbulent Times.jpg",
+    title: "Simcha In These Turbulent Times",
+  },
 ];
