@@ -20,6 +20,11 @@ const audio = [
     title: "A Chassidisher Derher Fundraising Campaign",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=Y__U00LHXtc",
+    thumbnail: "images/Tishrei Up-Close Promo.jpg",
+    title: "Tishrei Up-Close Promo",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=JYG1McLG1Kk",
     thumbnail: "images/Bnos Menachem Upward and Onward.jpg",
     title: "Bnos Menachem - Upward & Onward Campaign",
