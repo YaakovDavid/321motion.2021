@@ -65,6 +65,11 @@ const audio = [
     title: "Shir Hageula - Hachayenu Kel",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=KuqYrHZzov8",
+    thumbnail: "images/Ata Zocher.jpg",
+    title: "Ata Zocher MBD & Naftali Kempeh (Live)",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Q55f5hwejLI",
     thumbnail: "images/The.Great.Farby.Band.by.Chony.Milecki.Chabad.medley.jpg",
     title: "The Great Farby Band - Chabad Medley",
@@ -199,6 +204,11 @@ const audio = [
     thumbnail: "images/Gan Academy Girls Open House.jpg",
     title: "Gan Academy Open House",
   }, 
+  {
+    iframe: "https://www.youtube.com/watch?v=HOa4vKIrfZI",
+    thumbnail: "images/Lets Get Personal.jpg",
+    title: "Lets Get Personal",
+  },
   {
     iframe: "https://www.youtube.com/watch?v=Xpok5oqExD8",
     thumbnail: "images/Real Influence.jpg",
