@@ -475,6 +475,11 @@ const audio = [
     title: "Hatzalathon Kids Program",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=9CznzU5T3q4",
+    thumbnail: "images/Jewish Students Unite.jpg",
+    title: "Jewish Students Unite",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=2uFfvbjlf48",
     thumbnail: "images/Evening of Tribute for Rabbi Yudi Dukes.jpg",
     title: "Evening of Tribute for Rabbi Yudi Dukes",
