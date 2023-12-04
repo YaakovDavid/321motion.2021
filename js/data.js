@@ -501,7 +501,7 @@ const audio = [
   },
   {
     iframe: "https://www.youtube.com/watch?v=o7c_5jyHy_w",
-    thumbnail: "images/1 Hour Farbrengen.jpg",
+    thumbnail: "images/1 Hour Farbrengen C.jpg",
     title: "1 Hour Farbrengen",
   },
   {
