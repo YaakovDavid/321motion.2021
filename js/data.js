@@ -75,6 +75,11 @@ const audio = [
     title: "Ata Zocher MBD & Naftali Kempeh (Live)",
   },
   {
+    iframe: "https://www.youtube.com/watch?v=S-UpAL89S_c",
+    thumbnail: "images/Jewish Child.jpg",
+    title: "Jewish Child - Yaakov Shwekey & 8th Day",
+  },
+  {
     iframe: "https://www.youtube.com/watch?v=Q55f5hwejLI",
     thumbnail: "images/The.Great.Farby.Band.by.Chony.Milecki.Chabad.medley.jpg",
     title: "The Great Farby Band - Chabad Medley",
